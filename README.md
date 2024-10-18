@@ -9,10 +9,10 @@ Creating a page that allows users to post a thought
 ### Front-end
 
 1.  - [x] Sign up & Login mini pages
-2.  -     base page
+2.  - base page
 3.  - [x] add post button + page
-4.  -     nav bar
-5.  -     categories
+4.  - nav bar
+5.  - categories
 
 ### Back-end
 
