@@ -1,0 +1,10 @@
+.top-panel {
+    margin-top: 10px;
+    height: 40px;
+    border: black 5px solid;
+}
+
+.user-post-wrapper {
+    border: black 5px solid;
+    border-radius: 25px;
+}

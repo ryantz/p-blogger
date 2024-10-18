@@ -1,0 +1,8 @@
+.user-post-wrapper {
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 50px;
+    border: black solid 5px;
+    border-radius: 25px;
+    padding: 20px;
+}

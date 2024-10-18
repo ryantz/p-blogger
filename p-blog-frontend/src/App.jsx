@@ -1,12 +1,12 @@
-import './App.css';
-import Login from './components/buttons/Login';
+import "./App.css";
+import BaseLayout from "./components/base-layout/BaseLayout";
 
 function App() {
-  return (
-    <div className="App">
-      <Login/>
-    </div>
-  );
+    return (
+        <div className="App">
+            <BaseLayout />
+        </div>
+    );
 }
 
 export default App;
